@@ -1,0 +1,25 @@
+{
+    "env": {
+        "commonjs": true
+    },
+    "parserOptions": {
+        "ecmaVersion": 12
+    },
+    "rules": {
+        "indent": [
+            "error", 
+            4
+        ],
+        "linebreak-style": [
+            "error",
+            "windows"
+        ],
+        "semi": [
+            "error",
+            "always"
+        ],
+        "camelcase": "error",
+        "prefer-arrow-callback": "error",
+        "object-curly-spacing": ["error", "always"]
+    }
+}
